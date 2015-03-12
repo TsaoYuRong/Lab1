@@ -1,0 +1,17 @@
+Script started on 2015年03月12日 (週四) 13時19分13秒
+]0;H34031160@2015cpp: ~H34031160@2015cpp:~$ whami;pwd[Coami;pwd[C[C[C[C[C[C
+H34031160
+/home/H34031160
+]0;H34031160@2015cpp: ~H34031160@2015cpp:~$ git confid -l[C[1P -lg -l
+user.name=TsaoYuRong
+user.email=tammylinca@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+]0;H34031160@2015cpp: ~H34031160@2015cpp:~$ git clone https://github.com/TsaoYuRong/Lab1.git
+Cloning into 'Lab1'...
+warning: You appear to have cloned an empty repository.
+]0;H34031160@2015cpp: ~H34031160@2015cpp:~$ exit
+
+Script done on 2015年03月12日 (週四) 13時21分13秒
